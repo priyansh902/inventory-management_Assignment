@@ -18,5 +18,6 @@ public interface LowStockAlertProjection {
     String getSupplierEmail();
 
     Long getTotalSoldLast30Days();
+    //add
 }
 
